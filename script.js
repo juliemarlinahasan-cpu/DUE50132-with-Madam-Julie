@@ -2,4 +2,7 @@ const menuBtn=document.querySelector('.menu'),menu=document.getElementById('menu
 menuBtn.addEventListener('click',()=>{const open=menu.classList.toggle('open');menuBtn.setAttribute('aria-expanded',String(open));});
 const pages=[...document.querySelectorAll('.page')];
 function showPage(){let id=location.hash.slice(1)||'utama';if(!pages.some(p=>p.id===id))id='utama';pages.forEach(p=>p.hidden=p.id!==id);menu.querySelectorAll('a').forEach(a=>{const active=a.hash==='#'+id;a.classList.toggle('on',active);if(active)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});document.querySelector('.ticker-wrap').hidden=id!=='utama';menu.classList.remove('open');menuBtn.setAttribute('aria-expanded','false');window.scrollTo(0,0);}
-window.addEventListener('hashchange',showPage);showPage();
+window.addEventListener('hashchange',()=>{showPage();const heading=document.querySelector('.page:not([hidden]) h1,.page:not([hidden]) h2');if(heading){heading.setAttribute('tabindex','-1');heading.focus({preventScroll:true});}});showPage();
+// Pembaca PDF dalam halaman bahan pembelajaran.
+const pdfSelect=document.getElementById('pdf-select');
+if(pdfSelect){pdfSelect.addEventListener('change',()=>{const path=pdfSelect.value,title=pdfSelect.selectedOptions[0].textContent;const frame=document.getElementById('pdf-frame');frame.src=path+'#view=FitH';frame.title='Paparan PDF: '+title;document.getElementById('pdf-title').textContent=title;document.getElementById('pdf-open').href=path;document.getElementById('pdf-download').href=path;});}

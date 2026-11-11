@@ -117,3 +117,24 @@ h1,h2,h3,.logo{font-family:'Anton', Impact, 'Arial Narrow Bold', sans-serif}
 @media(max-width:760px){.s-bold .list li{grid-template-columns:90px 1fr}.s-bold .ticker{font-size:1rem}}
 
 [hidden]{display:none!important}.course-hero{margin:40px 0 0;width:100%;border:3px solid #111;border-radius:14px;overflow:hidden;box-shadow:6px 6px 0 #111}.course-hero img{width:100%;height:auto}.s-bold .hero h1{font-size:clamp(2.4rem,6vw,5rem)}.s-bold .nav .wrap{flex-wrap:wrap}.s-bold .nav .logo{font-size:1.1rem}.resource-actions{display:flex;gap:18px;flex-wrap:wrap;margin-top:22px;font-weight:800}.week-label{font-weight:800;font-size:.85rem;color:#a51f2e!important}.s-bold .section h2{margin-bottom:28px}.nav nav{gap:16px}.s-bold .nav nav a.on{color:#ffb5bd}@media(max-width:760px){.s-bold .nav .logo{max-width:80%;font-size:.95rem}.s-bold .hero{padding:40px 0}.s-bold .hero h1 .t2{transform:none}.s-bold .list li{grid-template-columns:1fr}.s-bold .list b{clip-path:none;justify-content:start}.s-bold .list span{padding:14px}.s-bold .ticker-wrap{display:none}}@media(prefers-reduced-motion:reduce){.s-bold .ticker div{animation:none}}
+
+/* Hero berlatar imej dan sambungan antara halaman */
+.s-bold .hero.hero-background{position:relative;padding:0;min-height:720px;background:#e9edf0 url('assets/due50132-hero.png') center top/cover no-repeat;text-align:left;display:flex;flex-direction:column;justify-content:flex-end}
+.s-bold .hero-background>.wrap:first-child{display:block;padding-top:230px;padding-bottom:42px;text-align:left}
+.s-bold .hero-background .hero-text{max-width:530px;padding:26px;background:rgba(255,255,255,.94);border:2px solid #111;border-radius:14px;box-shadow:6px 6px 0 #111}
+.s-bold .hero-background h1{font-size:clamp(2rem,3.2vw,3.4rem);line-height:1.08;margin-bottom:18px}
+.s-bold .hero-background h1 .t2{background:none;color:#111;transform:none;box-shadow:none;padding:0}
+.s-bold .hero-background p{font-size:1rem;font-weight:600;margin:0;max-width:none}
+.s-bold .hero-background .kicker{margin-bottom:12px;font-size:.75rem}
+.s-bold .hero-background .btn{font-size:.9rem;padding:11px 14px;margin-top:18px}
+.s-bold .hero-background .btn.ghost{background:white;color:#111;box-shadow:none}
+.page-controls{display:flex;flex-wrap:wrap;gap:14px;margin-top:42px;padding:24px 0;border-top:1px solid #b8b8b8}
+.page-link{flex:1 1 180px;display:flex;flex-direction:column;gap:5px;text-decoration:none;background:#fff;color:#111;padding:16px 20px;border:2px solid #111;border-radius:10px;box-shadow:3px 3px 0 #111;transition:transform .15s}
+.page-link span{font-size:.8rem;color:#a51f2e;font-weight:800}.page-link strong{font-size:.95rem}.page-link:hover{transform:translateY(-3px)}
+.page-link.next-link{background:#e33445;color:white}.page-link.next-link span{color:white}.home-link{flex-grow:0}
+.hero-background .page-controls{margin-top:0;margin-bottom:0;background:rgba(255,255,255,.92);padding:16px;border:0;border-radius:12px 12px 0 0}
+.s-bold .k-contact{transform:none}.s-bold .k-contact .wrap{transform:none}
+@media(max-width:760px){.s-bold .hero.hero-background{min-height:0;background-size:100% auto;background-position:center top;padding-top:56.3vw;background-color:#fbf5e6}.s-bold .hero-background>.wrap:first-child{padding-top:22px;padding-bottom:28px}.s-bold .hero-background .hero-text{max-width:none;padding:22px}.s-bold .hero-background h1{font-size:2.2rem}.hero-background .page-controls{background:none}.page-controls{gap:12px}.page-link{flex-basis:100%}.home-link{flex-grow:1}}
+@media(prefers-reduced-motion:reduce){.page-link{transition:none}}
+
+.pdf-reader{margin:28px 0 36px;padding:20px;background:#fff;color:#111;border:3px solid #111;border-radius:12px;box-shadow:5px 5px 0 #111}.pdf-reader label{display:block;font-weight:800;margin-bottom:10px}.pdf-reader select{width:100%;padding:13px;border:2px solid #111;border-radius:8px;background:#fff;color:#111;font:inherit}.pdf-title{font-weight:800;margin:18px 0 12px}.pdf-reader iframe{display:block;width:100%;height:75vh;min-height:500px;max-height:1000px;border:1px solid #aaa;background:#eee}.pdf-fallback{font-size:.9rem;margin:14px 0 0}.pdf-fallback a{font-weight:700;text-underline-offset:3px}@media(max-width:760px){.pdf-reader{padding:12px}.pdf-reader iframe{height:65vh;min-height:380px}.pdf-reader select{font-size:1rem}}

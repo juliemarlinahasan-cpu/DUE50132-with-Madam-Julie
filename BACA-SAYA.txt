@@ -3,3 +3,7 @@ Buka index.html. Untuk GitHub Pages, muat naik semua fail dan folder assets bers
 Hero dan empat PDF telah dimasukkan. Mula belajar membuka Topik.
 ZIP 02 LECTURE SLIDES hanya mengandungi folder kosong.
 Fail web-wizard-projek.json ialah data pembina asal, tidak merangkumi kemas kini HTML ini.
+
+Kemas kini: Hero menggunakan gambar sebagai latar. Setiap halaman mempunyai butang navigasi Sebelumnya, Utama dan Seterusnya mengikut kedudukan. Pada telefon, gambar dipaparkan penuh di atas teks agar wajah dan logo kekal kelihatan.
+
+Pembaca PDF: halaman Bahan memaparkan dokumen dalam iframe dengan pilihan empat PDF. Jika pelayar tidak menyokong paparan PDF, gunakan pautan buka tab baharu atau muat turun.
