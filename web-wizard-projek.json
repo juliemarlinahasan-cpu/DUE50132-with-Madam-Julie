@@ -1,0 +1,155 @@
+{
+  "v": 1,
+  "lang": "ms",
+  "type": "pdp",
+  "style": "bold",
+  "purpose": "",
+  "audience": "",
+  "action": "https://polipd.mypolycc.edu.my/web/index.php/staf/jabatan/jabatan-pengajian-am#direktori",
+  "title": "DUE50132 | Communicative English 3",
+  "tagline": "Pelajari kemahiran mencari kerja, sediakan dokumen permohonan dan bina keyakinan menghadapi temu duga.",
+  "cta": "Mula belajar",
+  "contact": "juliemarlinahasan@gmail.com",
+  "link": "https://polipd.mypolycc.edu.my/web/index.php/staf/jabatan/jabatan-pengajian-am#direktori",
+  "layout": "tabs",
+  "primary": "#e33445",
+  "bg": "#fbf5e6",
+  "font": "auto",
+  "skin": 2,
+  "corners": "round",
+  "hero": "centre",
+  "card": "thick",
+  "sections": [
+    {
+      "id": "srjvij5",
+      "kind": "text",
+      "title": "Tentang Kursus",
+      "items": [],
+      "text": "Communicative English 3 ialah kursus 2 kredit untuk pelajar DPR Semester 3, Tahun 2. Anda akan belajar mencari peluang pekerjaan, memahami syarat jawatan, membuat pertanyaan kerja serta menyediakan resume, resume video dan surat permohonan. Kursus ini turut membina kemahiran komunikasi untuk temu duga dan menyokong pencapaian sekurang-kurangnya tahap B2 CEFR."
+    },
+    {
+      "id": "sg21efk",
+      "kind": "cards",
+      "title": "Hasil Pembelajaran",
+      "items": [
+        {
+          "t": "CLO 1: Fahami Iklan Jawatan",
+          "d": "Tafsir keperluan dalam iklan jawatan dengan tepat."
+        },
+        {
+          "t": "CLO 2: Sediakan Dokumen Permohonan",
+          "d": "Hasilkan resume, resume video dan surat permohonan yang menyerlahkan kompetensi serta kekuatan mengikut jangkaan majikan."
+        },
+        {
+          "t": "CLO 3: Berkomunikasi dengan Yakin",
+          "d": "Tunjukkan kemahiran komunikasi dan sosial yang berkesan semasa mengendalikan temu duga."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "id": "s2srzd2",
+      "kind": "cards",
+      "title": "Topik Pembelajaran",
+      "items": [
+        {
+          "t": "Kemahiran Mencari Kerja",
+          "d": "Kenal pasti iklan yang sesuai, fahami syarat jawatan dan istilah pekerjaan. Pelajari cara membuat pertanyaan serta mengatur atau menjadualkan semula temu duga secara profesional."
+        },
+        {
+          "t": "Resume dan Resume Video",
+          "d": "Susun maklumat yang relevan, tonjolkan kekuatan dan semak ketepatan bahasa. Rancang kandungan serta skrip untuk menghasilkan resume video."
+        },
+        {
+          "t": "Surat Permohonan Kerja",
+          "d": "Gunakan format surat atau e-mel rasmi. Susun kelayakan, pengalaman dan kekuatan diri dengan jelas. Semak tatabahasa, ejaan serta kesilapan menaip."
+        },
+        {
+          "t": "Temu Duga Kerja",
+          "d": "Sediakan pengenalan diri dan dokumen sokongan. Kaji latar belakang syarikat, latih jawapan dan sediakan soalan yang relevan untuk majikan."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "id": "s6im8u8",
+      "kind": "list",
+      "title": "Aktiviti Job Match Challenge",
+      "items": [
+        {
+          "t": "Baca Bahan",
+          "d": "Bekerja dalam kumpulan sebagai pasukan pengambilan pekerja. Baca lima iklan jawatan dan lima portfolio calon."
+        },
+        {
+          "t": "Kenal Pasti Keperluan",
+          "d": "Gariskan syarat jawatan, tanggungjawab dan istilah penting seperti KPI, remuneration dan probation period."
+        },
+        {
+          "t": "Banding dan Padankan",
+          "d": "Bandingkan kelayakan, pengalaman, kemahiran serta ciri peribadi calon. Pilih calon paling sesuai berdasarkan bukti dalam iklan dan portfolio."
+        },
+        {
+          "t": "Berikan Alasan",
+          "d": "Sediakan dua hingga tiga alasan berasaskan bukti bagi setiap padanan. Gunakan istilah iklan jawatan dengan betul."
+        },
+        {
+          "t": "Bentangkan Hasil",
+          "d": "Bincang selama 15 minit. Setiap kumpulan membentangkan padanan dan alasan selama dua minit."
+        },
+        {
+          "t": "Refleksi Pembelajaran",
+          "d": "Tulis tiga istilah iklan jawatan yang digunakan hari ini dan satu istilah yang masih ingin dilatih."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "id": "si2rifp",
+      "kind": "cards",
+      "title": "Pentaksiran Kursus",
+      "items": [
+        {
+          "t": "Ujian Teori — 20%",
+          "d": "Pentaksiran bagi topik kemahiran mencari kerja."
+        },
+        {
+          "t": "Tugasan 1: Resume — 15%",
+          "d": "Sediakan resume yang menyerlahkan kelayakan, kompetensi dan kekuatan diri."
+        },
+        {
+          "t": "Pembentangan: Resume Video — 20%",
+          "d": "Hasilkan resume video untuk memperkenalkan kemahiran dan kelayakan secara profesional."
+        },
+        {
+          "t": "Tugasan 2: Surat Permohonan — 15%",
+          "d": "Sediakan surat permohonan kerja menggunakan format dan bahasa yang sesuai."
+        },
+        {
+          "t": "Simulasi Temu Duga — 30%",
+          "d": "Tunjukkan komunikasi yang berkesan dan keyakinan semasa simulasi temu duga."
+        },
+        {
+          "t": "Kaedah Pentaksiran",
+          "d": "Pentaksiran berterusan menyumbang 100% markah kursus. Semua pentaksiran dilaksanakan secara individu."
+        }
+      ],
+      "text": ""
+    },
+    {
+      "id": "susdo7c",
+      "kind": "contact",
+      "title": "Hubungi Pensyarah",
+      "items": [],
+      "text": "Perlukan penjelasan tentang topik atau tugasan? Hubungi pensyarah kursus: Julie Marlina binti Hasan, Masniza binti Mansor atau Noor Fazreena binti Abdul Wahab. E-mel rasmi: (isi di sini)."
+    }
+  ],
+  "codeLocked": false,
+  "manual": null,
+  "handoffT": 0,
+  "touched": true,
+  "man": [
+    false
+  ],
+  "images": {},
+  "refs": []
+}
